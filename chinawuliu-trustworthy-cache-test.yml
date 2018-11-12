@@ -9,4 +9,4 @@ spring:
     password: cfgcenter_mc_tst_d290a6
     driverClassName: com.mysql.jdbc.Driver
 redis-cluster:
-  192.168.1.3:7001
+  192.168.3.102:7001
