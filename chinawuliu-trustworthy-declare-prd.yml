@@ -1,4 +1,4 @@
 env:
-  test
+  prd
 projectName:
   chinawuliu-trustworthy-declare
