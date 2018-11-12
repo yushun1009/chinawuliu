@@ -1,3 +1,7 @@
+env:
+  test
+projectName:
+  chinawuliu-trustworthy-declare
 spring:
   datasource:
     url: jdbc:mysql://rm-bp106y19fa3992tt9.mysql.rds.aliyuncs.com:3306/tech_cfg_center_mycat_0
