@@ -8,6 +8,6 @@ spring:
     username: cfgcenter_mc_tst
     password: cfgcenter_mc_tst_d290a6
     driverClassName: com.mysql.jdbc.Driver
-redis-cluster:
+redisCluster:
   password: cflp1312
   address: 192.168.3.102:6379;192.168.3.103:6379;192.168.3.105:6379
