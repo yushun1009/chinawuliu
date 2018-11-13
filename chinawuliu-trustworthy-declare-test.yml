@@ -26,3 +26,13 @@ aliyun:
 # feign 
 trustworthy-cache:
   service: chinawuliu-trustworthy-cache
+  
+# 钛阳 
+trustworthy-ti:
+  service: zis-other-identity
+  serviceUrl: 11331-zis-other-identity.test.za-tech.net/v4/identities
+
+# OCR
+trustworthy-ocr:
+  service: za-ocr-business
+  serviceUrl: 18043-zis-labs-za-ocr-business.test.za.net
