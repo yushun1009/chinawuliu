@@ -16,7 +16,7 @@ aliyun:
   sms:
     product: Dysmsapi
     domain: dysmsapi.aliyuncs.com
-    signName: \u4E2D\u7269\u8054
+    signName: 中物联
     registerTempleteCode: SMS_150491805
     loginTempleteCode: SMS_150491807
   oss:
