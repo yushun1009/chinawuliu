@@ -20,8 +20,8 @@ aliyun:
     registerTempleteCode: SMS_150491805
     loginTempleteCode: SMS_150491807
   oss:
-    endpoint: oss-cn-hzfinance
-    bucketName: cflp-declare
+    endpoint: oss-cn-beijing
+    bucketName: cflp-cx
 
 # feign 
 trustworthy-cache:
